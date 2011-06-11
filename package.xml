@@ -65,7 +65,7 @@
           <release>stable</release> 
           <api>stable</api> 
         </stability> 
-        <date>2010-06-11</date> 
+        <date>2011-06-11</date> 
         <license>MIT</license> 
         <notes> 
           * fabien: fixed typo
@@ -80,7 +80,7 @@
         <release>stable</release> 
         <api>stable</api> 
       </stability> 
-      <date>2010-02-22</date> 
+      <date>2011-02-22</date> 
       <license>MIT</license> 
       <notes> 
         * fabien: renamed doc files to avoid collision with pecl/yaml
