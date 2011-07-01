@@ -10,9 +10,9 @@
   <email>fabien.potencier@symfony-project.org</email>
   <active>yes</active>
  </lead>
- <date>2011-06-11</date>
+ <date>2011-07-01</date>
  <version>
-   <release>1.0.7</release>
+   <release>1.0.6</release>
    <api>1.0.0</api>
  </version>
  <stability>
@@ -56,21 +56,6 @@
  </phprelease>
 
  <changelog>
-     <release>
-        <version> 
-          <release>1.0.7</release> 
-          <api>1.0.0</api> 
-        </version> 
-        <stability> 
-          <release>stable</release> 
-          <api>stable</api> 
-        </stability> 
-        <date>2011-06-11</date> 
-        <license>MIT</license> 
-        <notes> 
-          * fabien: fixed typo
-        </notes> 
-      </release>
    <release>
       <version> 
         <release>1.0.6</release> 
@@ -80,9 +65,10 @@
         <release>stable</release> 
         <api>stable</api> 
       </stability> 
-      <date>2011-02-22</date> 
+      <date>2011-07-01</date> 
       <license>MIT</license> 
       <notes> 
+        * fabien: fixed typo
         * fabien: renamed doc files to avoid collision with pecl/yaml
       </notes> 
     </release>
